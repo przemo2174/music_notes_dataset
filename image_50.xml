@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a_semibreves_pieciolinia</folder>
+	<filename>image_50.jpg</filename>
+	<path>C:\Projects\a_semibreves_pieciolinia\image_50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>semibreve_a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1964</xmin>
+			<ymin>178</ymin>
+			<xmax>2270</xmax>
+			<ymax>785</ymax>
+		</bndbox>
+	</object>
+</annotation>
