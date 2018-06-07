@@ -59,4 +59,52 @@
 			<ymax>2456</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>645</xmin>
+			<ymin>619</ymin>
+			<xmax>723</xmax>
+			<ymax>1010</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2629</xmin>
+			<ymin>603</ymin>
+			<xmax>2723</xmax>
+			<ymax>1003</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>2028</ymin>
+			<xmax>535</xmax>
+			<ymax>2472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2592</xmin>
+			<ymin>1972</ymin>
+			<xmax>2685</xmax>
+			<ymax>2397</ymax>
+		</bndbox>
+	</object>
 </annotation>

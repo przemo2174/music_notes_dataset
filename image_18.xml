@@ -35,4 +35,28 @@
 			<ymax>2694</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2004</xmin>
+			<ymin>419</ymin>
+			<xmax>2098</xmax>
+			<ymax>891</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1914</xmin>
+			<ymin>2075</ymin>
+			<xmax>1989</xmax>
+			<ymax>2603</ymax>
+		</bndbox>
+	</object>
 </annotation>

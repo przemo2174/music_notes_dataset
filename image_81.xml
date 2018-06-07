@@ -35,4 +35,16 @@
 			<ymax>1800</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>pipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3051</xmin>
+			<ymin>1131</ymin>
+			<xmax>3173</xmax>
+			<ymax>1685</ymax>
+		</bndbox>
+	</object>
 </annotation>
